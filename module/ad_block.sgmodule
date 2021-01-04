@@ -1,0 +1,5 @@
+#!name=AD Block
+#!desc=Block ads.
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/kallydev/surge/main/rule/advertising.list,REJECT
