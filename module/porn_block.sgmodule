@@ -1,0 +1,5 @@
+#!name=Porn Block
+#!desc=Block porn sites.
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/kallydev/surge/main/rule/pornography.list,REJECT
