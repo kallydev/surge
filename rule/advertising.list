@@ -1,1 +1,10 @@
 # Advertising
+
+# Google
+DOMAIN,adservice.google.com
+DOMAIN,adservice.google.com.hk
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,googleadsserving.cn
+DOMAIN-SUFFIX,googlesyndication.com
