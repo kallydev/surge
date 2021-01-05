@@ -5,4 +5,4 @@
 hostname = %INSERT% app.bilibili.com
 
 [Script]
-bilibili_filter = type=http-request,pattern=^https:\/\/app.bilibili.com,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/kallydev/surge/main/script/bilibili_filter.js
+bilibili_filter = type=http-response,pattern=^https:\/\/app.bilibili.com,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/kallydev/surge/main/script/bilibili_filter.js
