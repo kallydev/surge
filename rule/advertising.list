@@ -1,5 +1,41 @@
 # Advertising
 
+# Alibaba
+DOMAIN,adash.man.aliyuncs.com
+DOMAIN,cdn-ads.oss-cn-shanghai.aliyuncs.com
+DOMAIN,ynuf.aliapp.org
+DOMAIN,unidesk.alicdn.com
+DOMAIN,nbsdk-baichuan.alicdn.com
+DOMAIN,baichuan-sdk.alicdn.com
+DOMAIN,ilce.alicdn.com
+DOMAIN,abtest.alibaba.com
+DOMAIN,proxy-mob-cld.alicdn.com
+DOMAIN,www.uyunad.com
+DOMAIN,adashbc.m.taobao.com
+DOMAIN,adashbc.ut.taobao.com
+DOMAIN,adashxgc.ut.taobao.com
+DOMAIN,adashx.m.taobao.com
+DOMAIN,c-adash.m.taobao.com
+DOMAIN,m-adash.m.taobao.com
+DOMAIN,adashbc.m.taobao.com
+DOMAIN,adashbc.ut.taobao.com
+DOMAIN,adash.m.taobao.com
+DOMAIN,h-adashx.ut.taobao.com
+DOMAIN,tunion-api.m.taobao.com
+DOMAIN,acs4baichuan.m.taobao.com
+DOMAIN,amdc.m.taobao.com
+DOMAIN,amdcopen.m.taobao.com
+DOMAIN,eco.taobao.com
+DOMAIN,umengacs.m.taobao.com
+DOMAIN,umengjmacs.m.taobao.com
+DOMAIN,openjmacs.m.taobao.com
+DOMAIN,dsp.simba.taobao.com
+DOMAIN,sjarvis.taobao.com
+DOMAIN,audid-api.taobao.com
+DOMAIN,adashx4yt.m.taobao.com
+DOMAIN,h-adashx4yt.ut.taobao.com
+DOMAIN,umdc.aliapp.org
+
 # Baidu
 DOMAIN,adm.baidu.com
 DOMAIN,ad.player.baidu.com
